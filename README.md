@@ -26,3 +26,12 @@ El sistema es una herramienta de consola (CLI) que permite:
 2. Crear un entorno virtual e instalar las dependencias:
    ```bash
    pip install -r requirements.txt
+   ### 📈 Visualizaciones del Análisis
+
+#### Distribución de la Plantilla
+![Distribución por Departamento](Distribución de Empleados por Departamento.png)
+*Este gráfico permite identificar qué áreas tienen mayor carga de personal actualmente.*
+
+#### Análisis de Productividad (Ventas vs Salario)
+![Correlación Salario y Ventas](Correlación entre Salario y Rendimiento.png)
+*Visualización de la eficiencia individual para identificar talentos de alto rendimiento.*
