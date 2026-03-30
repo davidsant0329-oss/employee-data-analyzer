@@ -37,3 +37,17 @@ El sistema es una herramienta de consola (CLI) que permite:
 ![Correlación Salario y Ventas](correlacion_rendimiento.png)
 
 *Visualización de la eficiencia individual para identificar talentos de alto rendimiento.*
+
+
+## 🔍 Vista Previa del Procesamiento de Datos
+
+El sistema transforma el CSV básico en un reporte detallado con métricas de desempeño. A continuación, se muestra una captura del DataFrame final generado en la terminal de VS Code:
+
+![Vista del Dataset](Dataset.png)
+
+### 📈 Análisis de Columnas Generadas:
+* **Comisiones:** Cálculo automático basado en el volumen de ventas.
+* **Rendimiento:** Métrica calculada como $\frac{Ventas}{Salario}$.
+* **Eficiencia en Ventas:** Proporción de éxito por cada hora trabajada ($\frac{Ventas}{Horas}$).
+* **Categoría:** Clasificación inteligente de personal en **Alto** o **Bajo** rendimiento basada en la mediana de la empresa.
+* **Geografía:** Segmentación por ciudades principales de Colombia (Bogotá, Medellín, Cali, Barranquilla).
