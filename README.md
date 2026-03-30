@@ -30,8 +30,10 @@ El sistema es una herramienta de consola (CLI) que permite:
 
 #### Distribución de la Plantilla
 ![Distribución por Departamento](distribucion_depto.png)
+
 *Este gráfico permite identificar qué áreas tienen mayor carga de personal actualmente.*
 
 #### Análisis de Productividad (Ventas vs Salario)
 ![Correlación Salario y Ventas](correlacion_rendimiento.png)
+
 *Visualización de la eficiencia individual para identificar talentos de alto rendimiento.*
