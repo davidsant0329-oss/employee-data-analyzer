@@ -26,6 +26,3 @@ El sistema es una herramienta de consola (CLI) que permite:
 2. Crear un entorno virtual e instalar las dependencias:
    ```bash
    pip install -r requirements.txt
-
-   <img width="1242" height="494" alt="Captura de pantalla (17)" src="https://github.com/user-attachments/assets/e857e597-9837-4791-9078-0b069b2e53dc" />
- *Dataset
